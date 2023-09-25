@@ -20,11 +20,9 @@
     font-family: Helvetica, Arial, sans-serif;
     font-size: 12px;
 }
-
-
   .gauche {
     flex: 1;
-    padding: 20px;
+    padding: 21px;
     
   }
  
